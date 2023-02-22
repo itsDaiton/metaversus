@@ -3,7 +3,7 @@ import { Navbar, Footer } from '../components'
 
 const Page = () => {
   return (
-    <div>
+    <div className='bg-primary-black overflow-hidden'>
       <Navbar/>
       <Hero/>
       <About/>
