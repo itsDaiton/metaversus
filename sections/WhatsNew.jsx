@@ -4,8 +4,7 @@ import { motion } from 'framer-motion';
 import { staggerContainer, fadeIn, planetVariants } from '../utils/motion';
 import { TitleText, TypingText } from '../components/CustomTexts';
 import { newFeatures } from '../constants/data'
-import StartSteps from '../components/StartSteps';
-import NewFeatures from '@/components/NewFeatures';
+import NewFeatures from '../components/NewFeatures';
 
 const WhatsNew = () => {
   return (

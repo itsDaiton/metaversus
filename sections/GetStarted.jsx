@@ -34,7 +34,7 @@ const GetStarted = () => {
           className='flex-[0.75] flex justify-center flex-col'
         >
           <TypingText title='| How Metaverusus Works'/>
-          <TitleText title={<>Get started with just a few click</>} />
+          <TitleText title={<>Get started with just a few clicks</>} />
           <div className='mt-[31px] flex flex-col max-w-[370px] gap-[24px]'>
             {features.map((feature, index) => (
               <StartSteps
