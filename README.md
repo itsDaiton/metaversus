@@ -6,6 +6,9 @@ Modern responsive metaverse website design made with React, Framer Motion and Ta
 
 Live demo can be found under this [**link**](https://metaversus-website.onrender.com/).
 
+![image](https://user-images.githubusercontent.com/72783924/222011050-3d46f146-b74c-4982-a490-61fec703e96c.png)
+
+
 ## Layout
 - Header
 - Hero section
